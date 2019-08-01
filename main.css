@@ -1,3 +1,11 @@
+@font-face {
+    font-family: "thehistoriademo";
+    src: url("fonts/thehistoriademo.woff");
+    src: 
+    url("fonts/thehistoriademo.woff") format("woff"),
+    url("fonts/thehistoriademo.woff2") format("woff2"),
+    }
+
 /*Start global*/
 
 * {
